@@ -1,6 +1,6 @@
 # dext-predawn-theme
 
-> A theme for dext,
+> A theme for dext
 
 ![img](dext-predawn.gif)
 
@@ -16,5 +16,5 @@ $ dpm install dext-predawn-theme
 
 ## Background
 
-I <3 the [predawn theme](http://jamiewilson.io) and this is my homage to Jamie Wilson and his work.  
+I <3 the [predawn theme](http://jamiewilson.io/predawn/) and this is my homage to Jamie Wilson and his work.  
 Thanks for this!
