@@ -1,0 +1,27 @@
+
+{
+  "window": {
+    "backgroundColor": "#232323",
+    "color": "#F18260",
+    "fontFamily": "Droid Sans Mono, Andale Mono, monospace",
+    "fontWeight": "lighter"
+  },
+  "search": {
+    "color": "#F18260",
+    "fontFamily": "Droid Sans Mono, Andale Mono, monospace",
+    "fontSize": "50"
+  },
+  "result": {
+    "color": "#F18260"
+  },
+  "resultActive": {
+    "backgroundColor": "#F18260",
+    "color": "#fff"
+  },
+  "resultTitle": {
+    "fontSize": 18
+  },
+  "resultSubtitle": {
+    "fontSize": 11
+  }
+}

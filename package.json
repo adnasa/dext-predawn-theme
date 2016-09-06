@@ -1,0 +1,14 @@
+
+{
+  "name": "dext-predawn-theme",
+  "version": "0.0.1",
+  "description": "Predawn Dext Theme",
+  "keywords": [
+    "dext",
+    "dext-theme",
+    "predawn"
+  ],
+  "main": "theme.json",
+  "author": "Adnan Asani",
+  "license": "MIT"
+}
