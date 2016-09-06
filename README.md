@@ -4,6 +4,8 @@
 
 ![img](dext-predawn.gif)
 
+> Example uses [dext-giphy-plugin](https://github.com/adnasa/dext-giphy-plugin)
+
 _Requires [dext](https://github.com/vutran/dext)_
 
 ## Installation
